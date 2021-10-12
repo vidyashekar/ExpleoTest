@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-12T13:56:13Z" name="Default suite" finished-at="2021-10-12T13:57:18Z" duration-ms="64916">
+    <groups>
+    </groups>
+    <test started-at="2021-10-12T13:56:13Z" name="Default test" finished-at="2021-10-12T13:57:18Z" duration-ms="64916">
+      <class name="Demo.Expleo.VerifyPage">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:13Z" name="startReport" finished-at="2021-10-12T19:26:14Z" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:14Z" name="setup" finished-at="2021-10-12T19:26:19Z" duration-ms="5311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBlueButton()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:19Z" name="verifyBlueButton" finished-at="2021-10-12T19:26:19Z" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBlueButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:19Z" name="getResult" finished-at="2021-10-12T19:26:20Z" duration-ms="746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBlueButton status=SUCCESS method=VerifyPage.verifyBlueButton()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:20Z" name="setup" finished-at="2021-10-12T19:26:25Z" duration-ms="4913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGreenButton()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:25Z" name="verifyGreenButton" finished-at="2021-10-12T19:26:25Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGreenButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:25Z" name="getResult" finished-at="2021-10-12T19:26:25Z" duration-ms="748" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyGreenButton status=SUCCESS method=VerifyPage.verifyGreenButton()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:25Z" name="setup" finished-at="2021-10-12T19:26:31Z" duration-ms="5308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGreenColor()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:31Z" name="verifyGreenColor" finished-at="2021-10-12T19:26:31Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGreenColor -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:31Z" name="getResult" finished-at="2021-10-12T19:26:32Z" duration-ms="754" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyGreenColor status=SUCCESS method=VerifyPage.verifyGreenColor()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:32Z" name="setup" finished-at="2021-10-12T19:26:38Z" duration-ms="6022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRedButton()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:38Z" name="verifyRedButton" finished-at="2021-10-12T19:26:38Z" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRedButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:38Z" name="getResult" finished-at="2021-10-12T19:26:38Z" duration-ms="731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyRedButton status=SUCCESS method=VerifyPage.verifyRedButton()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:38Z" name="setup" finished-at="2021-10-12T19:26:44Z" duration-ms="5990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRedColor()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:44Z" name="verifyRedColor" finished-at="2021-10-12T19:26:44Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRedColor -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:44Z" name="getResult" finished-at="2021-10-12T19:26:45Z" duration-ms="740" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyRedColor status=SUCCESS method=VerifyPage.verifyRedColor()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:45Z" name="setup" finished-at="2021-10-12T19:26:51Z" duration-ms="5762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTableColumns()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:51Z" name="verifyTableColumns" finished-at="2021-10-12T19:26:51Z" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTableColumns -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:51Z" name="getResult" finished-at="2021-10-12T19:26:52Z" duration-ms="745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTableColumns status=SUCCESS method=VerifyPage.verifyTableColumns()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:52Z" name="setup" finished-at="2021-10-12T19:26:56Z" duration-ms="4807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTableRows()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:56Z" name="verifyTableRows" finished-at="2021-10-12T19:26:56Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTableRows -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:56Z" name="getResult" finished-at="2021-10-12T19:26:57Z" duration-ms="770" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTableRows status=SUCCESS method=VerifyPage.verifyTableRows()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:26:57Z" name="setup" finished-at="2021-10-12T19:27:03Z" duration-ms="5835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTabledata()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:03Z" name="verifyTabledata" finished-at="2021-10-12T19:27:03Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTabledata -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:03Z" name="getResult" finished-at="2021-10-12T19:27:04Z" duration-ms="747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTabledata status=SUCCESS method=VerifyPage.verifyTabledata()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:04Z" name="setup" finished-at="2021-10-12T19:27:10Z" duration-ms="5978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:10Z" name="verifyTitle" finished-at="2021-10-12T19:27:10Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:10Z" name="getResult" finished-at="2021-10-12T19:27:11Z" duration-ms="752" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=VerifyPage.verifyTitle()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:11Z" name="setup" finished-at="2021-10-12T19:27:17Z" duration-ms="6785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyblueColor()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:17Z" name="verifyblueColor" finished-at="2021-10-12T19:27:17Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyblueColor -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:17Z" name="getResult" finished-at="2021-10-12T19:27:18Z" duration-ms="759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyblueColor status=SUCCESS method=VerifyPage.verifyblueColor()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:Demo.Expleo.VerifyPage@6a47b187]" started-at="2021-10-12T19:27:18Z" name="endReport" finished-at="2021-10-12T19:27:18Z" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Demo.Expleo.VerifyPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
